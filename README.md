@@ -1,6 +1,6 @@
-# TODO: pon aquí el título del proyecto
+# examen-ut1
 
-TODO: escribe una frase con **negrita** que describa el proyecto.
+ **examen practico de la unidad 1 de despligue de aplicaciones web**
 
 ## Funcionalidades
 
